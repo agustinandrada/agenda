@@ -12,6 +12,9 @@ Para las vistas se utilizó blade con Boostrap 5 y Boostrap-Icons.
 
 Para la Base de Datos se utilizó MySQL
 
+Para la ejecucion de PHP se requiere XAAMP
+
+
 
 
 ## Instalación
