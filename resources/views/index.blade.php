@@ -34,3 +34,9 @@
         </div>
     </div>
 </div>
+{{-- <script>
+    const clicky = (id) {
+        let form = document.getElementById('form-' + id)
+        letalert('')
+    }
+</script> --}}
